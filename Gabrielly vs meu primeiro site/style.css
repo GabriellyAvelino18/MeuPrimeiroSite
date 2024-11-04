@@ -1,0 +1,43 @@
+body{
+    padding: 85px;
+    background-color:rgb(240, 241, 232);
+    margin-left: 25px;
+    border:solid 2px rgb(38,67,87)
+    
+}
+
+/* Classes e ids */
+       
+.paragrafo {
+    margin-left: 10px;
+    font-size: large;
+    margin-bottom: 35px;
+    margin-top: 25px;
+    
+    
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+    
+   
+}
+
+#titulo-principal {
+
+    color: rgb(0, 0, 0);
+    margin-left: 250px;
+}
+
+#titulo-secundario {
+     
+    margin-left: 450px;
+    margin-bottom: 20px;
+    color:rgb(38,67,87)
+    
+    
+}
+
+
+#imagem {
+
+    margin-left: 200px;
+}
