@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#titulo {
+    background-color: rgb(93, 32, 143);
+    font-size: 15px;
+}
+
+header{
+    background-color: rgb(93, 22, 126);
+    padding: 50px;
+}
